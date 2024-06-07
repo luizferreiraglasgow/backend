@@ -1,0 +1,29 @@
+we need to run the apache and mysql both in 
+XAMPP. Sometimes it shows error on start so you'l need to 
+get rid of (MySQL workbench) root - root1234
+
+mysql workbench
+
+Always first run the backend.
+- composer install
+
+Command to run the backend
+ - "php artisan serve"
+Check if it is working
+http://localhost:8000
+This screen shows that the backend is working fine.
+to check http://localhost/phpmyadmin/
+
+Command to run the front-end you need to be in the front-end in 
+terminal
+"npm start"
+
+Address to check if front-end is working fine.
+http://localhost:3000/
+
+github backend
+https://github.com/luizferreiraglasgow/backend---Blog
+
+github frontend
+https://github.com/luizferreiraglasgow/frontend--Blog
+
